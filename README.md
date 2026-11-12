@@ -10,8 +10,3 @@ npm install
 npm run dev
 ```
 
-## Crear el build de producción
-
-```sh
-npm run build
-```
